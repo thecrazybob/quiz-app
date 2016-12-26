@@ -1,0 +1,38 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- General Text used throughout the App-->
+    <string name="app_name">Quiz App</string>
+    <string name="welcome_text">Welcome to the Quiz App! Start by choosing the right answer for every question.</string>
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+    <string name="final_score">Score: <xliff:g id="score" example="4">%d</xliff:g> / 4</string>
+
+    <!-- TEXT for Questions -->
+    <string name="first_question">Who is the owner of Microsoft?</string>
+    <string name="second_question">Who is the CEO of Google?</string>
+    <string name="third_question">Udacity is:</string>
+    <string name="fourth_question">Is Java Object-Oriented Programming language?</string>
+
+    <!-- Options / Answers -->
+    <string name="first_answer">Bill Gates</string>
+
+    <string name="second_question_option_1">Satya Nadella</string>
+    <string name="second_question_option_2">Sundar Pichai</string>
+    <string name="second_question_option_3">Tim Cook</string>
+
+    <string name="third_question_option_1">Audacious for the student</string>
+    <string name="third_question_option_2">Awesome</string>
+    <string name="third_question_option_3">Interactive and Unique</string>
+
+    <string name="fourth_question_option_1">Yes</string>
+    <string name="fourth_question_option_2">No</string>
+
+    <!-- Final Messages -->
+    <string name="message_1">You got all correct nerd!</string>
+    <string name="message_2">You were really near! Try again</string>
+    <string name="message_3">Ah! You can get them, try again</string>
+    <string name="message_4">Are you living in a cave?</string>
+    <string name="message_5">Go Google the Questions!!!</string>
+
+
+</resources>
